@@ -6,8 +6,8 @@
 #include <WiFiServer.h>
 
 // Set these to your desired credentials.
-const char *ssid = "StrawberryJamnet";
-const char *password = "EvenStephen";
+const char *ssid = "StrawberryJamnet - Hello ";
+const char *password = "Hello111";
 WiFiServer server(80);
 
 void setup()
