@@ -9,8 +9,8 @@ const uint16_t PORT = 1883;
 const uint8_t  RETAIN = 10;  // Max retained messages
 
 MqttBroker broker(PORT);
-const char* ssid = "StrawberryJamnet";
-const char* password = "EvenStephen";
+const char* ssid = "Batman";
+const char* password = "Basil@222";
 
 void setup()
 {
